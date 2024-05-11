@@ -1,3 +1,2 @@
-# SHD Cloud 文檔
-
-不會編輯的麻煩查看 https://docs.shdcloud.xyz/docs
+<h1 align="center"><b>🍤炸蝦工作室 - Friedshrimp Studio🍤</b></h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FFFF00&center=true&vCenter=true&multiline=true&width=435&height=100&lines=%E6%AD%A1%E8%BF%8E%E5%85%89%E8%87%A8%E7%82%B8%E8%9D%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4+-+Friedshrimp+Studio;%E6%AD%A4%E8%99%95%E5%84%B2%E5%AD%98%E4%BA%86%E6%89%80%E6%9C%89%E7%82%B8%E8%9D%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%89%80%E9%96%8B%E7%99%BC%E7%9A%84%E5%90%84%E7%A8%AE%E7%A8%8B%E5%BC%8F" alt="Typing SVG" /></a></p>
