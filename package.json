@@ -1,0 +1,33 @@
+{
+  "name": "shd-cloud-docs",
+  "version": "1.0.0",
+  "description": "Nextra docs template",
+  "scripts": {
+    "dev": "next dev",
+    "format": "prettier --cache --check --ignore-path .gitignore --ignore-path .prettierignore . --write",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHD-Development/SHD-Cloud-Docs.git"
+  },
+  "author": "SHD Cloud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SHD-Development/SHD-Cloud-Docs"
+  },
+  "homepage": "https://github.com/SHD-Development/SHD-Cloud-Docs#readme",
+  "dependencies": {
+    "next": "^13.0.6",
+    "nextra": "latest",
+    "nextra-theme-docs": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.10",
+    "prettier": "latest",
+    "typescript": "^4.9.3"
+  }
+}
