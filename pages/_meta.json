@@ -1,0 +1,36 @@
+{
+  "index": "主頁",
+  "quickstart": "快速開始",
+  "-- General": {
+    "type": "separator",
+    "title": "一般"
+  },
+  "dashboard": "資源頁面",
+  "panel": "控制面板",
+  "-- Rules": {
+    "type": "separator",
+    "title": "規章"
+  },
+  "tos": "服務條款",
+  "privacy": "隱私權政策",
+  "community": "社群規則",
+  "-- Others": {
+    "type": "separator",
+    "title": "其他"
+  },
+  "acknowledgements": "致謝",
+  "about": {
+    "title": "關於我們",
+    "type": "page"
+  },
+  "docs": {
+    "title": "文檔共編",
+    "type": "page"
+  },
+  "contact": {
+    "title": "聯絡我們 ↗",
+    "type": "page",
+    "href": "https://dc.shdcloud.xyz/",
+    "newWindow": true
+  }
+}
